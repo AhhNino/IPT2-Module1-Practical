@@ -25,7 +25,7 @@ function addStudent() {
 }
 
 // Event Listener for Add Button
-document.getElementById('addStudentBtn').addEventListener('click', addStudent); 
+document.getElementById('addStudentBtn').addEventListener('click', addStudent);
 
 // Add Subject Function
 function addSubject() {
@@ -55,3 +55,4 @@ function addSubject() {
 
 // Event Listener for Add Button
 document.getElementById('addSubjectBtn').addEventListener('click', addSubject);
+
